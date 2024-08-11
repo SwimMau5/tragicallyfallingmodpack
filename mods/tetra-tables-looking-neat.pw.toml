@@ -1,0 +1,13 @@
+name = "Tetra tables looking neat"
+filename = "tetra_tables--mc1.20--1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba914edf70e70cb3ed20675b42490296cda3c248"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5225383
+project-id = 954341
