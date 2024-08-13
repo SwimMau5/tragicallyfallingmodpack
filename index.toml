@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a96886fe12b0156b383437c664125ca8989e7c972728a37e2ac36b35dcf29bec"
+hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
+hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "2e22c84f3b562059c23e406244259bfbef277c7c66d1c49c944b2b2430a6eca6"
+hash = "1af5eb0226aaf1ba1cdc5558352877161213a3ddb9074c72d811e7dddbfd17b9"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "bd2a3ca83020447357221c18bd1fbc85312e5aa355aa4b5528d2025cae9e219f"
+hash = "10efddc4dee36b3286d0481e2994da7eac00492d87d1aed131065997bfe80c18"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "7e6eb67fddafc459378e7eba20c65b47eb11e5e6c5545f8e538117a4e9ac6d46"
+hash = "1c568a134f6bd0391062992f361c65c733a9b0acad8f988f42943abf6a3910e3"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "01153c00b03a16f9984d34507d20869b07d0d8e284d84a2f4c630e0b503800a6"
+hash = "83bc80f595d00c7135d4a4152198f3d455a17a0b80350b73e6cb68802b1ff422"
 metafile = true
 
 [[files]]
