@@ -1,0 +1,22 @@
+name: Upload Modpack Files
+run-name: Upload Tragically Falling ${{ github.ref.tags }}
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - v*
+jobs:
+  Upload-Files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Push files to github.io webpage
+        uses: nkoppel/push-files-to-another-repository@v1.1.3
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-files: "kubejs mods .packwizignore index.toml pack.toml"
+          destination-username: "SwimMau5"
+          destination-repository: "swimmau5.github.io"
+          destination-directory: "tragically_falling"
+          commit-email: "swimmingmau5@gmail.com"
