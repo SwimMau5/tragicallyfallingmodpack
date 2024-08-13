@@ -13,5 +13,6 @@ jobs:
           source-files: "kubejs mods .packwizignore index.toml pack.toml"
           destination-username: "SwimMau5"
           destination-repository: "swimmau5.github.io"
+          destination-branch: "main"
           destination-directory: "tragically_falling"
           commit-email: "swimmingmau5@gmail.com"
