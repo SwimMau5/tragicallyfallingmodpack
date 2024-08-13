@@ -1,3 +1,6 @@
+# Exclude server pack folder
+/server
+
 # Exclude exported CurseForge zip files
 *.zip
 
