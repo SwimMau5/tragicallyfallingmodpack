@@ -1,6 +1,9 @@
 name: Upload Modpack Files
-run-name: Upload Tragically Falling ${{ github.ref.tags }}
-on: workflow_dispatch
+run-name: Upload Tragically Falling
+on:
+  push:
+    tags:
+      - "v*"
 jobs:
   Upload-Files:
     runs-on: ubuntu-latest
