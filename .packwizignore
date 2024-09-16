@@ -5,3 +5,7 @@
 /README.md
 
 /prism
+/server
+
+*.sh
+.github
